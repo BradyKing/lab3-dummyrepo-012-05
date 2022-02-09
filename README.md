@@ -2,4 +2,5 @@
 Project Team Members:
 Brady King
 
-correcting changes made by myself
+
+correcting changes made by brady
