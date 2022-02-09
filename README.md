@@ -1,2 +1,6 @@
-# lab3-dummyrepo-012-05 
-Edit - trying to create merge conflicts
+# lab3-dummyrepo-012-05
+Project Team Members:
+Brady King
+
+
+correcting changes made by brady
