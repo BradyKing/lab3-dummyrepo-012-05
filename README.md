@@ -1,6 +1,6 @@
 # lab3-dummyrepo-012-05
 Project Team Members:
-Brady King
+Eric Morales 
+Brady King 
+Ethan Pike
 
-
-correcting changes made by brady
